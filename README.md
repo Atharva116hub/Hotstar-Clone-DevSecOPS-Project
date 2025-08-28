@@ -1,1 +1,1 @@
-# Netflix-Clone-DevSecOPS-Project
+# Hotstar-Clone-DevSecOPS-Project
